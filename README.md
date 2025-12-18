@@ -1,6 +1,6 @@
 # 🏆 Tournament Manager Pro
 
-**Live Demo:** [tournamentmanagerpro.netlify.app](https://tournamentmanagerpro.netlify.app)
+**Live Demo:** https://tournament-management-pro.vercel.app/
 
 Tournament Manager Pro is a web application designed to simplify the management of sports and e-sports tournaments. It allows admins to create, organize, and track tournaments efficiently — all from a modern, responsive dashboard.
 
@@ -20,4 +20,5 @@ Tournament Manager Pro is a web application designed to simplify the management 
 - **Styling:** Modern UI/UX with responsive design principles (Flexbox / Grid)
 - **Hosting:** [Netlify](https://www.netlify.com/)
 - **Storage (if applicable):** LocalStorage / JSON-based data management
+
 
